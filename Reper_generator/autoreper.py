@@ -1,1 +1,3 @@
-# Oniño eztau hasitze tranki
+# Oniño eztau hasitze
+
+print('Hello Zazpizar ez')

@@ -1,0 +1,1 @@
+# Oniño eztau hasitze tranki

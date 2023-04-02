@@ -11,7 +11,7 @@ Kaixo! - Urtz - C - 108 - 2' 47
 Oxigenoa - Nøgen - C#m - 97 - 4' 38
 Garaipenaren Bila - Sarkor - Dm - 144 - 4' 06
 Begitara Begira - Vendetta - G - 91 - 3' 38
-Zer den bizitza - Itziarren Semeak - C - 152 - 3' 04
+Zer den bizitza? - Itziarren Semeak - C - 152 - 3' 04
 Guregatik - Hesian - G - 117 - 4' 09
 Lokaleko Leihotik - Betizu - Bb - 190 - 3' 49
 Amets - Gari - B - 147 - 2' 48
@@ -30,3 +30,4 @@ Zazpi Jauzi - - - -
 Zuretzako Hitz Ederrak - Peiremans - - -
 Pao Pao Pao - Vendetta - - -
 Zortzi Orduko Ekaitza - Sorotan Bele - - -
+Arazoak Dira - Skabidean - D - 161 - 3' 15

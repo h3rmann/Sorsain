@@ -1,33 +1,33 @@
-Mundu Berri Baten Mapa - Skakeitan - Bm - 194 - 4' 09
-Euri Tanta Bakoitzean - Betagarri - A - 170 - 4' 28
-Haizea - Ken Zazpi - A - 85.5 - 4' 18
-Horrelako - The Uskis - Ab - 162 - 2' 35
-Inpernuen Ate Joka - Gatibu - G - 161 - 4' 59
-Paradisu Zinema - Joxe Ripiau - B - 178 - 3' 03
-Maite Zaitut - Pirritx eta Porrotx - C - 128 - 2' 22
-Egunero - Vendetta - A - 168 - 3' 12
-Bueltatzen - Berri Txarrak - Fm - 220 - 3' 22
-Kaixo! - Urtz - C - 108 - 2' 47
-Oxigenoa - Nøgen - C#m - 97 - 4' 38
-Garaipenaren Bila - Sarkor - Dm - 144 - 4' 06
-Begitara Begira - Vendetta - G - 91 - 3' 38
-Zer den bizitza? - Itziarren Semeak - C - 152 - 3' 04
-Guregatik - Hesian - G - 117 - 4' 09
-Lokaleko Leihotik - Betizu - Bb - 190 - 3' 49
-Amets - Gari - B - 147 - 2' 48
-Laztana - Latzen - C - 72.5 - 5' 18
-Karolina - Akelarre - F#m - 152 - 5' 06
-Goizean Oskorri - Tatxers - B - 198 - 3' 21
-Soldadito Marinero - Fito & Fitipaldis - D - 70.5 - 4' 24
-Duintasunez Eutsi - Deskontrol - C - 95 - 4' 12
-Eskutitza - Hemendik At! - G#m - 120 - 3' 35
-La Chica Del Batzoki - Betagarri - Am - 80.5 - 3' 48
-Zarena zarelako - Sugan - D - 113 - 3' 12
-Zure doinua - Lor - G - 117 - 3' 17
-Urepel - Gatibu - D - 102 - 4' 34
-Ikusi Arte - Berri Txarrak - Abm - 210 - 2' 44
-Zazpi Jauzi - - - -
-Zuretzako Hitz Ederrak - Peiremans - - -
-Pao Pao Pao - Vendetta - - -
-Zortzi Orduko Ekaitza - Sorotan Bele - - -
-Arazoak Dira - Skabidean - D - 161 - 3' 15
+Mundu Berri Baten Mapa - Skakeitan - Bm - 194 - 4' 09 - Standard
+Euri Tanta Bakoitzean - Betagarri - A - 170 - 4' 28 - Standard
+Haizea - Ken Zazpi - A - 85.5 - 4' 18- Standard
+Horrelako - The Uskis - Ab - 162 - 2' 35 - Standard
+Inpernuen Ate Joka - Gatibu - G - 161 - 4' 59 - Standard
+Paradisu Zinema - Joxe Ripiau - B - 178 - 3' 03 - Standard
+Maite Zaitut - Pirritx eta Porrotx - C - 128 - 2' 22 - Standard
+Egunero - Vendetta - A - 168 - 3' 12 - Standard
+Bueltatzen - Berri Txarrak - Fm - 220 - 3' 22 - Drop C
+Kaixo! - Urtz - C - 108 - 2' 47 - Standard
+Oxigenoa - Nøgen - C#m - 97 - 4' 38 - Standard
+Garaipenaren Bila - Sarkor - Dm - 144 - 4' 06 - Standard
+Begitara Begira - Vendetta - G - 91 - 3' 38 - Standard
+Zer den bizitza? - Itziarren Semeak - C - 152 - 3' 04 - Standard
+Guregatik - Hesian - G - 117 - 4' 09 - Drop D
+Lokaleko Leihotik - Betizu - Bb - 190 - 3' 49 - Drop D
+Amets - Gari - B - 147 - 2' 48 - Standard
+Laztana - Latzen - C - 72.5 - 5' 18 - Standard
+Karolina - Akelarre - F#m - 152 - 5' 06 - Drop D
+Goizean Oskorri - Tatxers - B - 198 - 3' 21 - Standard
+Soldadito Marinero - Fito & Fitipaldis - D - 70.5 - 4' 24 - Standard
+Duintasunez Eutsi - Deskontrol - C - 95 - 4' 12 - Standard
+Eskutitza - Hemendik At! - G#m - 120 - 3' 35 - Standard
+La Chica Del Batzoki - Betagarri - Am - 80.5 - 3' 48 - Standard
+Zarena zarelako - Sugan - D - 113 - 3' 12 - Standard
+Zure doinua - Lor - G - 117 - 3' 17 - Standard
+Urepel - Gatibu - D - 102 - 4' 34 - Standard
+Ikusi Arte - Berri Txarrak - Abm - 210 - 2' 44 - Standard
+Zazpi Jauzi - - - - - Standard
+Zuretzako Hitz Ederrak - Peiremans - - - - Standard
+Pao Pao Pao - Vendetta - - - - Standard
+Zortzi Orduko Ekaitza - Sorotan Bele - - - - Standard
+Arazoak Dira - Skabidean - D - 161 - 3' 15 - Standard

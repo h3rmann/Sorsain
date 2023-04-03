@@ -7,4 +7,7 @@
 # Nun joten dogunan arabera aukeratu kantak eta ordena
 # Tenpoan arteko bai antzekotasun bai kontrastie
 
+cq_maj = ['C', 'G', 'D', 'A', 'E', 'B', 'F#', 'Db', 'Ab', 'Eb', 'Bb', 'F']
+cq_min = ['Am', 'Em', 'Bm', 'F#m', 'Dbm', 'Abm', 'Ebm', 'Bbm', 'Fm', 'Cm', 'Gm', 'Dm']
+
 print('Hello, Sorsain')

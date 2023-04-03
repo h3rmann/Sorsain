@@ -7,4 +7,4 @@
 # Nun joten dogunan arabera aukeratu kantak eta ordena
 # Tenpoan arteko bai antzekotasun bai kontrastie
 
-print('Hello Zazpizar ez')
+print('Hello, Sorsain')

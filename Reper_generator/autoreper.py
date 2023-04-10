@@ -19,16 +19,37 @@ def song_info(song_list):
     song_dict = {}
     file = open(song_list, "r")
     for line in file:
-        words = line.split('-')
+        words = line.strip('\n').split('-')
         name = words.pop(0)
         song_dict[name] = words
     file.close()
     return song_dict
+
+def rep_time(song_dict, set_time = 0):
+    '''
+    This function gathers the dictionary with the song list information, as well as the time that the set will endure
+    written in hours. It will output a matrix with all the combinations of the song orders that get close to that time 
+    while being under it. It will also score positively the lists that are around 10 minutes under. Over set_time times
+    as well as under 30 min combinations will be discarted.
+    '''
+    times = []
+    current_tot_time = 0
+    for song in song_dict:
+        times.append(song_dict[song][3])
+    for time in times:
+        if time == '':
+            continue
+        else:
+            elem = time.split("'")
+            current_tot_time += ((int(elem[0])*60 + int(elem[1]))/60)/60
+    return current_tot_time
+    
 
 def key_relation():
     cq_maj = ['C', 'G', 'D', 'A', 'E', 'B', 'F#', 'Db', 'Ab', 'Eb', 'Bb', 'F']  # Circulo de quintas mayor
     cq_min = ['Am', 'Em', 'Bm', 'F#m', 'Dbm', 'Abm', 'Ebm', 'Bbm', 'Fm', 'Cm', 'Gm', 'Dm']  # Circulo de quintas menor
     return True
 
-print('Hello, Sorsain')
-print(song_info(song_list))
+song_dict = song_info(song_list)
+print(rep_time(song_dict, 0))
+

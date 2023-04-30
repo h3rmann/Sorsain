@@ -1,33 +1,38 @@
-Mundu Berri Baten Mapa - Skakeitan - Bm - 194 - 4' 09 - Standard - Haize
-Euri Tanta Bakoitzean - Betagarri - A - 170 - 4' 28 - Standard - Haize
-Haizea - Ken Zazpi - A - 85.5 - 4' 18- Standard - Ez Haize
-Horrelako - The Uskis - Ab - 162 - 2' 35 - Standard - Ez Haize
-Inpernuen Ate Joka - Gatibu - G - 161 - 4' 59 - Standard - Ez Haize
-Paradisu Zinema - Joxe Ripiau - B - 178 - 3' 03 - Standard - Haize
-Maite Zaitut - Pirritx eta Porrotx - C - 128 - 2' 22 - Standard - Haize
-Egunero - Vendetta - A - 168 - 3' 12 - Standard - Haize
-Bueltatzen - Berri Txarrak - Fm - 220 - 3' 22 - Drop C - Ez Haize
-Kaixo! - Urtz - C - 108 - 2' 47 - Standard - Ez Haize
-Oxigenoa - Nøgen - C#m - 97 - 4' 38 - Standard - Ez Haize
-Garaipenaren Bila - Sarkor - Dm - 144 - 4' 06 - Standard - Ez Haize
-Begitara Begira - Vendetta - G - 91 - 3' 38 - Standard - Haize
-Zer den bizitza? - Itziarren Semeak - C - 152 - 3' 04 - Standard - Haize
-Guregatik - Hesian - G - 117 - 4' 09 - Drop D - Haize
-Lokaleko Leihotik - Betizu - Bb - 190 - 3' 49 - Drop D - Ez Haize
-Amets - Gari - B - 147 - 2' 48 - Standard - Ez Haize
-Laztana - Latzen - C - 72.5 - 5' 18 - Standard - Ez Haize
-Karolina - Akelarre - F#m - 152 - 5' 06 - Drop D - Ez Haize
-Goizean Oskorri - Tatxers - B - 198 - 3' 21 - Standard - Ez Haize
-Soldadito Marinero - Fito & Fitipaldis - D - 70.5 - 4' 24 - Standard - Ez Haize
-Duintasunez Eutsi - Deskontrol - C - 95 - 4' 12 - Standard - Ez Haize
-Eskutitza - Hemendik At! - G#m - 120 - 3' 35 - Standard - Haize
-La Chica Del Batzoki - Betagarri - Am - 80.5 - 3' 48 - Standard - Haize
-Zarena zarelako - Sugan - D - 113 - 3' 12 - Standard - Ez Haize
-Zure doinua - Lor - G - 117 - 3' 17 - Standard - Ez Haize
-Urepel - Gatibu - D - 102 - 4' 34 - Standard - Ez Haize
-Ikusi Arte - Berri Txarrak - Abm - 210 - 2' 44 - Standard - Ez Haize
-Arazoak Dira - Skabidean - D - 161 - 3' 15 - Standard - Haize
-Zazpi Jauzi - Oskorri - Bb - 88 - 3' 29 - Standard - Haize
-Zuretzako Hitz Ederrak - Peiremans - - - - Standard - Ez Haize
-Pao Pao Pao - Vendetta - - - - Standard - Haize
-Zortzi Orduko Ekaitza - Sorotan Bele - - - - Standard -
+Mundu Berri Baten Mapa-Skakeitan-Bm-194-4'09-Standard-Haize
+Euri Tanta Bakoitzean-Betagarri-A-170-4'28-Standard-Haize
+Haizea-Ken Zazpi-A-85.5-4'18-Standard-Ez Haize
+Horrelako-The Uskis-Ab-162-2'35-Standard-Ez Haize
+Inpernuen Ate Joka-Gatibu-G-161-4'59-Standard-Ez Haize
+Paradisu Zinema-Joxe Ripiau-B-178-3'03-Standard-Haize
+Maite Zaitut-Pirritx eta Porrotx-C-128-2'22-Standard-Haize
+Egunero-Vendetta-A-168-3'12-Standard-Haize
+Bueltatzen-Berri Txarrak-Fm-220-3'22-Drop C-Ez Haize
+Kaixo!-Urtz-C-108-2'47-Standard-Ez Haize
+Oxigenoa-Nøgen-C#m-97-4'38-Standard-Ez Haize
+Garaipenaren Bila-Sarkor-Dm-144-4'06-Standard-Ez Haize
+Begitara Begira-Vendetta-G-91-3'38-Standard-Haize
+Zer den bizitza?-Itziarren Semeak-C-152-3'04-Standard-Haize
+Guregatik-Hesian-G-117-4'09-Drop D-Haize
+Lokaleko Leihotik-Betizu-Bb-190-3'49-Drop D-Ez Haize
+Amets-Gari-B-147-2'48-Standard-Ez Haize
+Laztana-Latzen-C-72.5-5'18-Standard-Ez Haize
+Goizean Oskorri-Tatxers-B-198-3'21-Standard-Ez Haize
+Soldadito Marinero-Fito & Fitipaldis-D-70.5-4'24-Standard-Ez Haize
+Duintasunez Eutsi-Deskontrol-C-95-4'12-Standard-Ez Haize
+Eskutitza-Hemendik At!-G#m-120-3'35-Standard-Haize
+La Chica Del Batzoki-Betagarri-Am-80.5-3'48-Standard-Haize
+Zarena zarelako-Sugan-D-113-3'12-Standard-Ez Haize
+Zure doinua-Lor-G-117-3'17-Standard-Ez Haize
+Urepel-Gatibu-D-102-4'34-Standard-Ez Haize
+Ikusi Arte-Berri Txarrak-Abm-210-2'44-Standard-Ez Haize
+Arazoak Dira-Skabidean-D-161-3'15-Standard-Haize
+Zazpi Jauzi-Oskorri-Bb-88-3'29-Standard-Haize
+Pao Pao Pao-Vendetta-F#m-184-3'22-Standard-Haize
+Sexuarekin-ETS-A-184-2'48-Standard-Haize
+Porru Patata-Gozategi-G--5'20-Standard-Haize
+No Hay Tregua-Barricada-G-148-2'55-Standard-Haize
+Polka------
+Gure Kaiola-Glaukoma-Am-86-4'30-Standard-Ez Haize
+Karolina-Akelarre-F#m-152-5'06-Drop D-Ez Haize
+Zortzi Orduko Ekaitza-Sorotan Bele----Standard-
+Zuretzako Hitz Ederrak-Peiremans----Standard-Ez Haize
